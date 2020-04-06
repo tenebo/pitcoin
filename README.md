@@ -3,7 +3,11 @@
 wallet command 
 
 wallet - see address
-send - Pitcoin
+
+send - send Pitcoin
+
 mine - mine Pitcoin
+
 reload - reload wallet
+
 quit - quit wallet
