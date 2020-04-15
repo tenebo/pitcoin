@@ -10,4 +10,4 @@ mine - mine Pitcoin
 
 reload - reload wallet
 
-quit - quit wallet
+exit - exit wallet
