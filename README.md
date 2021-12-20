@@ -1,3 +1,5 @@
+https://coinmarketcap.com/currencies/pitcoin/
+
 # pitcoin
 
 wallet command 
